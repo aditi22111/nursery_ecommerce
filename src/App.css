@@ -1,7 +1,4 @@
-html, body, #root, .App {
-  height: 100%;
-  margin: 0;
-}
+
 
 .App {
   display: flex;
@@ -12,3 +9,6 @@ html, body, #root, .App {
 .content {
   flex: 1;
 }
+
+
+

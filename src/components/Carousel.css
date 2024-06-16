@@ -1,0 +1,16 @@
+.carousel-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px; /* Remove any default margin */
+    padding-top: 0; /* Remove any default padding */
+  }
+  
+  .carousel-inner {
+    width: 1210px;
+  }
+  
+  .carousel-img {
+    height: 413px;
+    object-fit: cover; /* Ensure the image covers the area without distorting */
+  }
